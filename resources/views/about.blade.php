@@ -28,7 +28,7 @@
         <div class="card text-bg-dark">
             <img height="500" src="assets/bghitam.jpg" class="card-img" alt="...">
             <div class="card-img-overlay position-absolute top-50 start-50 translate-middle bt-5">
-                <h5 class="card-title">Card title</h5>
+                <h5 class="card-title">Hello</h5>
                 <h1 class="card-text">H'I Welcome To My Website Me </h1>
                 <p class="card-text"><small>Linkin: Mochammad Iqbal Saputra</small></p>
                 <a href="#" class="btn btn-warning">Lihat Lebih Lanjut>></a>
