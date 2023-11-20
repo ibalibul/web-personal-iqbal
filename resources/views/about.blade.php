@@ -21,6 +21,7 @@
                         <a class="nav-link active" aria-current="page" href="{{url('about')}}">About</a>
                         <a class="nav-link" href="{{url('contact')}}">Contact</a>
                         <a class="nav-link" href="{{url('portofolio')}}">Portofolio</a>
+                        <a class="nav-link" href="{{url('blog')}}">blog</a>
                     </div>
                 </div>
             </div>
